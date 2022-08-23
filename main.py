@@ -1,5 +1,3 @@
-#Jeff Lu & Daniel Sanchez Performance Task 
-
 from http import client
 from multiprocessing.connection import Client
 import nextcord
